@@ -1,13 +1,14 @@
-### Hi, I'm Muskan. 👋
+### Hi, 
+### I'm Muskan. 👋
 
 <!--
 **goyalmuskan/goyalmuskan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Web Development projects
-- 🌱 I’m currently learning Backend Development
+- 🔭 Web Developer at Developer Student Clubs, Chitkara University
+- 🎓 Currently Pursuing B.Tech in Computer Science and Engineering
 - 😄 Pronouns: she/her
+
+Take a look at my work. You can connect with me on :
 
 🐦 [twitter][twitter] **|** 
 📷 [instagram][instagram] **|** 

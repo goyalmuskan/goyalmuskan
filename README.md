@@ -1,5 +1,6 @@
-### Hi, 
-### I'm Muskan. 👋
+### Hey there, 👋
+
+## I'm Muskan. 
 
 <!--
 **goyalmuskan/goyalmuskan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->

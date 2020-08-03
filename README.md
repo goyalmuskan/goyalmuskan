@@ -5,7 +5,7 @@
 <!--
 **goyalmuskan/goyalmuskan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🔭 Web Developer at Developer Student Clubs, Chitkara University
+- 🔭 Web Developer 
 - 🎓 Currently Pursuing B.Tech in Computer Science and Engineering
 - 😄 Pronouns: she/her
 
